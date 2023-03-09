@@ -1,5 +1,21 @@
 {
     "name" : "calculator",
     "version" : "0.0.1",
-    "main" : "calc_module"
+    "main" : "calc_module",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nagaumamahesh/calculator"
+    },
+
+    "keywords": [
+        "calculator" , "calci" , "calcu_module"
+    ],
+
+    "dependencies": {},
+    "engines": {
+        "node" : "*"
+    }
+    
+
 }
